@@ -27,7 +27,7 @@ Este proyecto corresponde a una propuesta de sistema para la compañia Salmontt 
 **Instrucciones para compilar y ejecutar la clase Main**
 1. Clona el repositorio desde GitHub:
 ```
-git clone https://github.com/benjapineiro/Sistema-Salmontt/tree/3d1338910f52f90bc579bb977dbd230ae1cdef52/Sistema%20Salmontt
+git clone https://github.com/benjapineiro/Sistema-Salmontt.git
 ```
 2. Abre el proyecto en tu IDE 
 3. Asegurate de que el directorio ´src` este marcado como carpeta de codigo fuente
