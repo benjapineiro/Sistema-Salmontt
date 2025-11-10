@@ -13,7 +13,7 @@ Este proyecto corresponde a una propuesta de sistema para la compañia Salmontt 
 
 
 **Estructuras de paquetes y clases implementadas**
-
+```
 📁 src/
 ├── App/ # Contiene la clase principal de la aplicación
 │ └── Main.java # Método main donde se crean las instancias y se ejecuta el programa
@@ -22,7 +22,7 @@ Este proyecto corresponde a una propuesta de sistema para la compañia Salmontt 
 │ ├── Persona.java # Clase base que representa a una persona
 │ ├── Direccion.java # Clase que representa una dirección 
 │ └── Empleado.java # Clase que hereda de Persona e incluye información adicional 
-
+```
 
 **Instrucciones para compilar y ejecutar la clase Main**
 1. Clona el repositorio desde GitHub:
